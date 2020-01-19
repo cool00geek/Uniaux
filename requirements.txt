@@ -1,0 +1,13 @@
+pymongo==3.10.1
+dnspython==1.16.0
+click==6.7
+Flask==1.1.1
+Flask_WTF==0.14.2
+config==0.4.2
+app==0.0.1
+itsdangerous==0.24
+Jinja2==2.10.1
+MarkupSafe==1.0
+Werkzeug==0.15
+gunicorn==20.0.4
+spotipy==2.6.3
