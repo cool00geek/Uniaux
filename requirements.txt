@@ -6,7 +6,7 @@ Flask_WTF==0.14.2
 config==0.4.2
 app==0.0.1
 itsdangerous==0.24
-Jinja2==2.11.3
+Jinja2==3.1.4
 MarkupSafe==1.0
 Werkzeug==3.0.3
 gunicorn==22.0.0
